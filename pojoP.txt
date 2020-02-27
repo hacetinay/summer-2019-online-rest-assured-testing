@@ -1,0 +1,33 @@
+{
+  "admissionNo": "string",
+  "batch": 0,
+  "birthDate": "2020-02-02T18:45:40.056Z",
+  "company": {
+    "address": {
+      "addressId": 0,
+      "city": "string",
+      "state": "string",
+      "street": "string",
+      "zipCode": 0
+    },
+    "companyId": 0,
+    "companyName": "string",
+    "startDate": "string",
+    "title": "string"
+  },
+  "contact": {
+    "contactId": 0,
+    "emailAddress": "string",
+    "phone": "string",
+    "premanentAddress": "string"
+  },
+  "firstName": "string",
+  "gender": "string",
+  "joinDate": "2020-02-02T18:45:40.056Z",
+  "lastName": "string",
+  "major": "string",
+  "password": "string",
+  "section": "string",
+  "studentId": 0,
+  "subject": "string"
+}
